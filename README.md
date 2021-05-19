@@ -7,6 +7,8 @@
 - user-jorney-tests
 
 # services
+- service-account
+- service-profile
 - service-email
 - service-cart
 - service-product-catalogue
@@ -14,6 +16,8 @@
 - service-recommendation
 - service-shipping
 - service-payment
+- service-currency
+- service-advertisement
 
 ## mobile app
 - mobile-bff
