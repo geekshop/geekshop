@@ -1,28 +1,28 @@
 # geekshop
 
 ## infrastructure 
-- infrastructure
+- [infrastructure](https://github.com/geekshop/infrastructureinfrastructure)
 
 ## tests
-- user-jorney-tests
+- [user-jorney-tests](https://github.com/geekshop/user-jorney-tests)
 
 # services
-- service-account
-- service-profile
-- service-email
-- service-cart
-- service-product-catalogue
-- service-account
-- service-recommendation
-- service-shipping
-- service-payment
-- service-currency
-- service-advertisement
+- [service-account](https://github.com/geekshop/service-account)
+- [service-profile](https://github.com/geekshop/service-profile)
+- [service-email](https://github.com/geekshop/service-email)
+- [service-cart](https://github.com/geekshop/service-cart)
+- [service-product-catalogue](https://github.com/geekshop/service-product-catalogue)
+- [service-account](https://github.com/geekshop/service-account)
+- [service-recommendation](https://github.com/geekshop/service-recommendation)
+- [service-shipping](https://github.com/geekshop/service-shipping)
+- [service-payment](https://github.com/geekshop/service-payment)
+- [service-currency](https://github.com/geekshop/service-currency)
+- [service-advertisement](https://github.com/geekshop/service-advertisement)
 
 ## mobile app
-- mobile-bff
-- mobile-app
+- [mobile-bff](https://github.com/geekshop/mobile-bff)
+- [mobile-app](https://github.com/geekshop/mobile-app)
 
 ## web app
-- web-bff
-- web-app
+- [web-bff](https://github.com/geekshop/web-bff)
+- [web-app](https://github.com/geekshop/web-app)
