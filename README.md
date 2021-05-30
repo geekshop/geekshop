@@ -7,8 +7,6 @@
 - [user-jorney-tests](https://github.com/geekshop/user-jorney-tests)
 
 # services
-- [service-account](https://github.com/geekshop/service-account)
-- [service-profile](https://github.com/geekshop/service-profile)
 - [service-email](https://github.com/geekshop/service-email)
 - [service-cart](https://github.com/geekshop/service-cart)
 - [service-product-catalogue](https://github.com/geekshop/service-product-catalogue)
