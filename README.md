@@ -1,7 +1,7 @@
 # geekshop
 
 ## infrastructure 
-- [infrastructure](https://github.com/geekshop/infrastructureinfrastructure)
+- [infrastructure](https://github.com/geekshop/infrastructure)
 
 ## tests
 - [user-jorney-tests](https://github.com/geekshop/user-jorney-tests)
