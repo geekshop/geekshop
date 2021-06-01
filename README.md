@@ -1,7 +1,8 @@
 # geekshop
 
 ## infrastructure 
-- [infrastructure](https://github.com/geekshop/infrastructure)
+- [infrastructure-k8s](https://github.com/geekshop/infrastructure-k8s)
+- [infrastructure-aws](https://github.com/geekshop/infrastructure-aws)
 
 ## tests
 - [user-jorney-tests](https://github.com/geekshop/user-jorney-tests)
