@@ -4,10 +4,18 @@
 - [infrastructure-k8s](https://github.com/geekshop/infrastructure-k8s)
 - [infrastructure-aws](https://github.com/geekshop/infrastructure-aws)
 
+## data modelling
+- [models](https://github.com/geekshop/models)
+  - [go](https://github.com/geekshop/models/go)
+  - [java](https://github.com/geekshop/models/java)
+- [schema](https://github.com/geekshop/models/schema)
+  - [db](https://github.com/geekshop/models/docs/db)
+  - [api](https://github.com/geekshop/models/docs/api)
+
 ## tests
 - [user-jorney-tests](https://github.com/geekshop/user-jorney-tests)
 
-# services
+## services
 - [service-email](https://github.com/geekshop/service-email)
 - [service-cart](https://github.com/geekshop/service-cart)
 - [service-product-catalogue](https://github.com/geekshop/service-product-catalogue)
