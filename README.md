@@ -1,6 +1,11 @@
 # geekshop
 
-## infrastructure 
+Inspired by [Google Cloud Platform's Microservice Demo](https://github.com/GoogleCloudPlatform/microservices-demo/blob/master/pb/demo.proto). 
+The Services are re-written with golang and java. And They works on REST protocol. 
+
+Please be aware that this project is being developed for personal training purposes. 
+
+## infrastruct
 - [infrastructure-k8s](https://github.com/geekshop/infrastructure-k8s)
 - [infrastructure-aws](https://github.com/geekshop/infrastructure-aws)
 
