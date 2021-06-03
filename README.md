@@ -5,17 +5,12 @@ The Services are re-written with golang and java. And They works on REST protoco
 
 Please be aware that this project is being developed for personal training purposes. 
 
-## infrastruct
+## infrastructure
 - [infrastructure-k8s](https://github.com/geekshop/infrastructure-k8s)
 - [infrastructure-aws](https://github.com/geekshop/infrastructure-aws)
 
 ## data modelling
 - [models](https://github.com/geekshop/models)
-  - [go](https://github.com/geekshop/models/go)
-  - [java](https://github.com/geekshop/models/java)
-- [schema](https://github.com/geekshop/models/schema)
-  - [db](https://github.com/geekshop/models/docs/db)
-  - [api](https://github.com/geekshop/models/docs/api)
 
 ## tests
 - [user-jorney-tests](https://github.com/geekshop/user-jorney-tests)
