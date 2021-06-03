@@ -1,6 +1,6 @@
 # geekshop
 
-Inspired by [Google Cloud Platform's Microservice Demo](https://github.com/GoogleCloudPlatform/microservices-demo/blob/master/pb/demo.proto). 
+Inspired by [Google Cloud Platform's Microservice Demo](https://github.com/GoogleCloudPlatform/microservices-demo). 
 The Services are re-written with golang and java. And They works on REST protocol. 
 
 Please be aware that this project is being developed for personal training purposes. 
